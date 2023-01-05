@@ -40,21 +40,17 @@ yocode
 
 3、进行初始化配置
 
-![image-20230105221421457](C:\Users\Cokira\AppData\Roaming\Typora\typora-user-images\image-20230105221421457.png)
 
 - 个性配置项对应关系：
 
-![image-20230105221617102](C:\Users\Cokira\AppData\Roaming\Typora\typora-user-images\image-20230105221617102.png)
 
 - ​	identifier：文件夹名
 
-![image-20230105221914272](C:\Users\Cokira\AppData\Roaming\Typora\typora-user-images\image-20230105221914272.png)
 
 - extensionname：插件名称
 - publisher：发布者
 - description：插件描述
 
-![image-20230105223000900](C:\Users\Cokira\AppData\Roaming\Typora\typora-user-images\image-20230105223000900.png)
 
 4、指令名称及跳转方法配置在package.json
 
